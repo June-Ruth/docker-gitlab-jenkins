@@ -1,4 +1,4 @@
-# 
+# Docker - GitLab / Jenkins
 
 ## Jenkins
 Local used ports : 
@@ -23,3 +23,4 @@ Administrator account :
 id = root
 
 password = see file in `/etc/gitlab/initial_root_password`
+
